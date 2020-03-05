@@ -15,11 +15,10 @@ Messing it up: local
 
 This is in the master branche
 This as well
-<<<<<<< HEAD
 woop! Here is a new one
-=======
 
 
 
 noooooo!!!!
->>>>>>> e570e0d90bbd6a7765a756249964b5153275770d
+
+Im testing to mess this up: github
